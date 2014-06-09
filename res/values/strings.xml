@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_label">Tip Calculator</string>
+    <string name="amount_label">Amount of Bill:</string>
+    <string name="percentage_label">Percentage to Tip:</string>
+    <string name="num_persons_label">Number of People:</string>
+    <string name="calcualte_button_label">Calculate</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="tip_amount_label">Tip Per Person:</string>
+    <string name="total_amount_label">Total Bill with Tip:</string>
+    <string name="total_per_person_label">Total Per Person:</string>
+    <string name="exit_button_label">Exit</string>
+
+</resources>
